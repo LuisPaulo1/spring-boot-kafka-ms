@@ -1,4 +1,4 @@
-package com.portal.api.dto;
+package com.store.car.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -22,8 +22,6 @@ public class CarPostDTO {
 	private String engineVersion;
 
 	private String city;
-
-	private String createdDate;
 
 	private Long ownerId;
 

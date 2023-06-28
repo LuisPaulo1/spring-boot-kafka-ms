@@ -1,4 +1,4 @@
-package com.portal.api.dto;
+package com.store.car.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
